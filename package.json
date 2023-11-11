@@ -1,0 +1,12 @@
+{
+  "name": "palacio-restaurant",
+  "version": "1.0.0",
+  "description": "TITLE:  Tasty - 100% Fully Responsive Free HTML5 Bootstrap Template for Restaurant",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
